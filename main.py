@@ -1,8 +1,9 @@
 # Import UI Library
 import streamlit as st
-import joblib
+
 import requests
 import pandas as pd
+import joblib
 
 st.title("DMC Subscriber Predictor")
 st.caption(body="Portuguese Banking Institution")
